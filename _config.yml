@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Lost Bearings Skate Park Digital Exhibit
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Showcasing the Legacy of the Lost Bearings Skate Park and Skate Team
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: The Lost Bearings Skate Park, founded in 1992, continues to be a safe space for skates of all ages by providing a recreational space, a skate school, and a music venue to the Hemlock-Rook community. This exhibit highlights the activities and legacy of the Lost Bearings Skate Team and Park by sharing the materials in the collection.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: skateboarding; history; skate park, skateboard
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Ana Bellamy
 
 ##########
 # COLLECTION SETTINGS
@@ -50,8 +50,8 @@ metadata: demo-compoundobjects-metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Hemlock-Rook Community Archive Center (HRCAC)"
+organization-link: 
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
 organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
